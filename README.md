@@ -121,15 +121,5 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 
 ---
 
-## 👩‍💻 Author
-
-**Ankita Arya**
-M.Tech (AI & Data Science)
-Aspiring AI/ML Engineer | Agentic AI Enthusiast
-
-🔗 GitHub: [https://github.com/ankitaarya456](https://github.com/ankitaarya456)
-
----
-
 ✨ *This project demonstrates practical Agentic AI applied to real-world data analysis workflows.*
 
