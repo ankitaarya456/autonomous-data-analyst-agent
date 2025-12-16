@@ -115,5 +115,4 @@ The application is deployed on **Streamlit Community Cloud** and connected direc
 
 ---
 
-✨ *This project demonstrates practical Agentic AI applied to real-world data analysis workflows.*
 
