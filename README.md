@@ -115,11 +115,5 @@ The application is deployed on **Streamlit Community Cloud** and connected direc
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** — free to use, modify, and distribute.
-
----
-
 ✨ *This project demonstrates practical Agentic AI applied to real-world data analysis workflows.*
 
