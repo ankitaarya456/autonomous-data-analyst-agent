@@ -4,6 +4,10 @@ A **Streamlit-based agentic AI application** that automatically analyzes CSV dat
 
 🔗 **Live App**: [https://autonomous-data-analyst-agent-ankita-arya.streamlit.app/](https://autonomous-data-analyst-agent-ankita-arya.streamlit.app/)
 
+🔗 **LinkedIn Project Post**:  
+[https://www.linkedin.com/posts/ankita-arya-06a509234_agenticai-artificialintelligence-datascience-activity-7407001209657708545-0UI0](https://www.linkedin.com/posts/ankita-arya-06a509234_agenticai-artificialintelligence-datascience-activity-7407001209657708545-0UI0)
+
+
 ---
 
 ## 🚀 Key Features
