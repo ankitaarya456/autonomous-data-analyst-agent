@@ -61,7 +61,7 @@ autonomous-data-analyst-agent/
 │
 ├── requirements.txt           # Dependencies
 ├── README.md                  # Project documentation
-├── LICENSE                    # MIT License
+├── LICENSE                    # Apache License 2.0
 └── .gitignore
 ```
 
